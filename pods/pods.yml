@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: myapp
-      image: paps0903/myapp
+      image: paps0903/myapp:1.0.0
       ports:
         - containerPort: 8080
