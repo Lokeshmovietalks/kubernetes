@@ -1,9 +1,9 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: nodeapp
+  name: myapp
   labels:
-    app: nodeapp
+    app: myapp
 spec:
   containers:
     - name: myapp
