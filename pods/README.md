@@ -18,7 +18,7 @@ spec:
 ```
 
 ```
-$ kubectl create -f https://raw.githubusercontent.com/javahometech/kubernetes/master/pods/pods.yml
+$ kubectl create -f https://raw.githubusercontent.com/Lokeshmovietalks/kubernetes/master/pods/pods.yml
 ```
 ### Command to get all pods
 
