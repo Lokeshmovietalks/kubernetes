@@ -6,7 +6,7 @@ metadata:
     app: nodeapp
 spec:
   containers:
-    - name: nodeapp
+    - name: myapp
       image: paps0903/myapp
       ports:
         - containerPort: 8080
